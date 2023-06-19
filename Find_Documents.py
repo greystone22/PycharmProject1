@@ -4,7 +4,7 @@
 import os
 
 # Path to the Documents folder
-documents_folder = os.path.expanduser("~/Documents")
+documents_folder = os.path.expanduser(r"Path to documents folder")
 
 # List all files in the Documents folder
 file_list = []
